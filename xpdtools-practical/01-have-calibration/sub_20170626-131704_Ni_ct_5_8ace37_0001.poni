@@ -1,0 +1,24 @@
+# Nota: C-Order, 1 refers to the Y axis, 2 to the X axis 
+# Calibration done at Fri Jun 30 19:11:39 2017
+Detector: Perkin
+PixelSize1: 0.0002
+PixelSize2: 0.0002
+Distance: 0.205835537028
+Poni1: 0.209745360556
+Poni2: 0.201658810046
+Rot1: 0.00964287910865
+Rot2: -0.00129982962273
+Rot3: 1.37694823099e-08
+Wavelength: 1.823e-11
+# Nota: C-Order, 1 refers to the Y axis, 2 to the X axis 
+# Calibration done at Fri Jun 30 19:11:53 2017
+Detector: Perkin
+PixelSize1: 0.0002
+PixelSize2: 0.0002
+Distance: 0.205835537028
+Poni1: 0.209745360556
+Poni2: 0.201658810046
+Rot1: 0.00964287910865
+Rot2: -0.00129982962273
+Rot3: 1.37694823099e-08
+Wavelength: 1.823e-11
